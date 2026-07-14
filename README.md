@@ -4,11 +4,16 @@ A tiny x86 operating system kernel written from scratch in C and x86 assembly.
 Boots on real hardware and QEMU. No external libraries — zero dependency on libc or any OS runtime.
 
 ```
-  __  __ _       _    ___  ____
- |  \/  (_)_ __ (_)  / _ \/ ___|
- | |\/| | | '_ \| | | | | \___ \
- | |  | | | | | | | | |_| |___) |
- |_|  |_|_|_| |_|_|  \___/|____/
+                                        
+           mm          mmmm      mmmm   
+           ##         ##""##   m#""""#  
+  m#####m  ##m###m   ##    ##  ##m      
+ ##"    "  ##"  "##  ##    ##   "####m  
+ ##        ##    ##  ##    ##       "## 
+ "##mmmm#  ###mm##"   ##mm##   #mmmmm#" 
+   """""   "" """      """"     """""   
+                                        
+                                        
 ```
 
 ---
